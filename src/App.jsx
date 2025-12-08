@@ -3,7 +3,7 @@ import Home from "./pages/Home";
 import Properties from "./pages/Properties";
 import PropertyDetails from "./pages/PropertyDetails";
 import Contact from "./pages/Contact";
-import About from "./pages/about";
+import About from "./pages/About";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
