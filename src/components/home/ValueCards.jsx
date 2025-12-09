@@ -42,16 +42,16 @@ export default function ValueCards() {
                          group hover:shadow-xl hover:-translate-y-1 transition-all"
             >
               {/* Icon */}
-              <div className="w-14 h-14 flex items-center justify-center 
+              <div
+                className="w-14 h-14 flex items-center justify-center 
                               bg-blue-600 text-white rounded-full text-2xl mb-4 
-                              group-hover:bg-indigo-600 transition">
+                              group-hover:bg-indigo-600 transition"
+              >
                 <FontAwesomeIcon icon={item.icon} />
               </div>
 
               {/* Text */}
-              <p className="text-gray-800 font-semibold text-lg">
-                {item.text}
-              </p>
+              <p className="text-gray-800 font-semibold text-lg">{item.text}</p>
             </div>
           ))}
         </div>

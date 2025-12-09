@@ -1,7 +1,11 @@
 import { Link } from "react-router-dom";
 import { properties } from "../data/properties";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLocationDot, faBed, faBath } from "@fortawesome/free-solid-svg-icons";
+import {
+  faLocationDot,
+  faBed,
+  faBath,
+} from "@fortawesome/free-solid-svg-icons";
 
 export default function Properties() {
   return (

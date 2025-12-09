@@ -22,7 +22,8 @@ export default function Hero() {
         </h1>
 
         <p className=" text-lg md:text-xl text-gray-200 mt-4 max-w-xl">
-          Clean, Modern Property Listing Website Demo for Real Estate Businesses.
+          Clean, Modern Property Listing Website Demo for Real Estate
+          Businesses.
         </p>
 
         <a

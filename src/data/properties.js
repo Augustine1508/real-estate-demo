@@ -29,4 +29,34 @@ export const properties = [
     description:
       "Fully serviced detached duplex with swimming pool and high-end finishings.",
   },
+  {
+    id: 4,
+    title: "5-bedroom Detached Duplex in Peter Odili",
+    price: "₦180,000,000",
+    location: "Peter Odili Road, Port Harcourt",
+    image:
+      "https://i.pinimg.com/1200x/1f/52/bb/1f52bb85ab28accd6c35765c721727c1.jpg",
+    description:
+      "Fully serviced detached duplex with swimming pool and high-end finishings.",
+  },
+  {
+    id: 5,
+    title: "5-bedroom Detached Duplex in Peter Odili",
+    price: "₦180,000,000",
+    location: "Peter Odili Road, Port Harcourt",
+    image:
+      "https://i.pinimg.com/736x/90/86/7b/90867b32a247f63ae776b658c43b3929.jpg",
+    description:
+      "Fully serviced detached duplex with swimming pool and high-end finishings.",
+  },
+  {
+    id: 6,
+    title: "5-bedroom Detached Duplex in Peter Odili",
+    price: "₦180,000,000",
+    location: "Peter Odili Road, Port Harcourt",
+    image:
+      "https://i.pinimg.com/736x/89/fa/79/89fa7941427531eb7cf1d82f5fa57c0a.jpg",
+    description:
+      "Fully serviced detached duplex with swimming pool and high-end finishings.",
+  },
 ];
